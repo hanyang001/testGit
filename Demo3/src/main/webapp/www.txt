@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-11111111111111111111111111111
-=======
+
 zzzzzzzzzzzzzzzzzzzzzzz
->>>>>>> 7737012f30a740ddf0fbb83c167c4e6c904e0dbd
