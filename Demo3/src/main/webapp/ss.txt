@@ -2,5 +2,5 @@
 
 public Integer age(){
 	User user=new User();
-	return user.getAge;
+	return user.getAge;£¡£¡£¡£¡£¡£¡£¡£¡
 }
