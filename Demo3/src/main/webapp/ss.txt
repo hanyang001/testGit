@@ -1,1 +1,4 @@
-jijisssss
+public String name(){
+  User user=new User();
+  return user.getName;
+}
