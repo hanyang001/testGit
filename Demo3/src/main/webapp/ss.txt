@@ -1,6 +1,6 @@
 
 
-public String age(){
+public Integer age(){
 	User user=new User();
 	return user.getAge;
 }
