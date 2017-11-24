@@ -1,1 +1,4 @@
-jijisssss
+public String age(){
+	User user=new User();
+	return user.getAge;
+}
