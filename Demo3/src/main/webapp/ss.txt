@@ -4,6 +4,6 @@ public String Sex122211211(){
 	User user=new User();
 
 
-		return user.getSex555555555;
+		return "wo xihuanni";
 
 }
